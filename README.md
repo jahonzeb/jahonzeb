@@ -13,7 +13,6 @@ I'm a backend-focused developer based in Uzbekistan. I spend most of my time bui
 
 #### 📌 Featured Work
 - [**drf-auto-doc**](https://github.com/jahonzeb/drf-auto-doc) — Automatic API documentation generation and schema analysis tooling for Django REST Framework.
-- [**jahonzeb.github.io**](https://github.com/jahonzeb/jahonzeb.github.io) — Arch Linux-inspired interactive developer console & personal portfolio ([live demo](https://jahonzeb.github.io)).
 
 ---
 
