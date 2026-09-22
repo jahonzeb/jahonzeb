@@ -5,9 +5,9 @@ I'm a backend-focused developer based in Uzbekistan. I spend most of my time bui
 ---
 
 #### 🛠 What I Work With
-- **Languages:** Python, JavaScript, SQL, Bash
-- **Backend & APIs:** Django, Django REST Framework, RESTful APIs, PostgreSQL, SQLite
-- **Tooling & Environment:** Linux, Git, Docker, drf-spectacular / OpenAPI
+- **Languages:** Python, C, C++, SQL, Bash
+- **Backend & APIs:** Django, Django REST Framework, RESTful APIs, PostgreSQL, MySQL, SQLite
+- **Tooling & Environment:** Linux, Git, Docker, OpenAPI
 
 ---
 
